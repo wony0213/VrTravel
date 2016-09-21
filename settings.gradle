@@ -1,0 +1,1 @@
+include ':app', ':gvr-base', ':gvr-common', ':gvr-commonwidget', ':gvr-panowidget', ':gvr-videowidget'
